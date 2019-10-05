@@ -1,0 +1,2 @@
+# Summary
+A container instance that contains Scripts.  Useful only for Plugins.  When Studio starts, we load plugins into the 'UserPlugin' data model and execute Scripts contained in StandalonePluginScripts container. If a plugin doesn't have such a container then the plugin isn't loaded into UserPlugin data model.  When a data model for a place is created (e.g. the Edit data model), we load plugins into said data model and execute only those Scripts which are not contained in StandalonePluginScripts container.

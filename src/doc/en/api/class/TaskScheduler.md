@@ -1,0 +1,4 @@
+# Members
+
+## SetThreadShare
+Deprecated

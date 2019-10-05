@@ -1,0 +1,2 @@
+# Summary
+The Team class is used to represent a faction in a team game. The only valid location for a Team object is under the Teams service. <a href='http://wiki.roblox.com/index.php/Team' target='_blank'>More info</a>
